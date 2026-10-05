@@ -1,10 +1,9 @@
 # character
-[Himekawa Yoshino](https://date-a-live.fandom.com/wiki/Yoshino_Himekawa), she’s so moe so I use her as my profile picture.
+[Himekawa Yoshino](https://date-a-live.fandom.com/wiki/Yoshino_Himekawa), she's so moe so I use her as my profile picture.
 
 # name
-originally, `kaede` was what i meant in the name, but i knew someone might taken the name, so I have to add the `-su` suffix.\
-it caused confusion in the name, between calling `kae` or `kaede`.\
-from now on, you can refer to me as `kae`, `kaede`, or `yoshino` (the name of the character).
+`kumiyuki` is a mix of the character [Oumae Kumiko](https://hibike-euphonium.fandom.com/wiki/Kumiko_Oumae) and the word `yuki` (snow).\
+before `kumiyuki`, i named the account `kaedesuu`, and it caused confusion, so i changed to a new name.
 
 # what I do
 I do web reverse engineering stuff and i mostly write cheats for some websites. 
